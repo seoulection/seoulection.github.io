@@ -2,6 +2,7 @@
 title: 'Bread'
 description: 'We love bread'
 pubDate: 'Oct 03 2022'
+heroImage: '../../assets/bread-10-2-26.jpg'
 ---
 
 <h2>Ingredients</h2>
