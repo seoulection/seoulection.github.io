@@ -1,8 +1,8 @@
 ---
-title: 'Bread'
-description: 'We love bread'
-pubDate: 'Oct 03 2022'
-heroImage: '../../assets/bread-10-2-26.jpg'
+title: "Bread"
+description: "We love bread"
+pubDate: "Oct 03 2022"
+heroImage: "../../assets/bread-10-2-26.jpg"
 ---
 
 <h2>Ingredients</h2>
@@ -23,5 +23,5 @@ heroImage: '../../assets/bread-10-2-26.jpg'
 7. Preshape, rest for 1hr
 8. Shape, overnight cold fermentation
 9. Bake:
-    - 485F for 20 min
-    - 450F for 17 min
+   - 485F for 20 min
+   - 450F for 17 min
