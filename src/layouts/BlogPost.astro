@@ -28,7 +28,9 @@ const { title, pubDate, updatedDate } = Astro.props;
   </article>
 </BaseLayout>
 <style>
-  article {
+  .prose {
+    display: flex;
+    flex-direction: column;
     width: 100%;
   }
   .hero-image {
@@ -55,5 +57,13 @@ const { title, pubDate, updatedDate } = Astro.props;
   }
   .last-updated-on {
     font-style: italic;
+  }
+
+  @media (max-width: 48rem) {
+    .title {
+      flex-direction: column;
+      align-items: flex-start;
+      margin-bottom: 0;
+    }
   }
 </style>
